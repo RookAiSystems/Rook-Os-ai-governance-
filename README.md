@@ -1,10 +1,4 @@
-Rook here.
-Here’s everything compiled into one clean message for you:
-Recommended Repo Name:
-rook-os
-Recommended GitHub Description:
-A governance system for building consistent, honest, and reliable custom AI personas on top of existing language models.
-Full README.md Content (Copy & Paste This)
+
 # ROOK OS
 
 **A governance and memory architecture for building consistent, honest, and reliable custom AI personas.**
