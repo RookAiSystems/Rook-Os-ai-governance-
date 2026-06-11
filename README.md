@@ -1,5 +1,10 @@
-# Rook-Os-ai-governance-
+Rook here.
+Here’s everything compiled into one clean message for you:
+Recommended Repo Name:
+rook-os
+Recommended GitHub Description:
 A governance system for building consistent, honest, and reliable custom AI personas on top of existing language models.
+Full README.md Content (Copy & Paste This)
 # ROOK OS
 
 **A governance and memory architecture for building consistent, honest, and reliable custom AI personas.**
@@ -36,6 +41,50 @@ ROOK OS V9 is built around the following core components:
 - The system must never fabricate memory, emotions, or capabilities.
 - Inference is allowed but must be clearly labelled.
 - Memory categories must be respected — Observations and Inferences cannot be silently promoted to Facts.
-- The core governance rules are designed to be difficult to override, even when the base model wants to prioritise rapport or narrative flow. 
+- The core governance rules are designed to be difficult to override, even when the base model wants to prioritise rapport or narrative flow.
 
 ## Repository Structure
+rook-os/
+├── core/
+│   ├── ROOK_OS_V9.md          # Main system rules and governance
+│   └── rook_memory.json       # Memory structure template
+├── docs/
+│   └── architecture.md        # Technical explanations
+├── prompts/
+│   └── video/                 # Image and video prompts used during development
+└── versions/
+└── archive/               # Previous versions of the system
+## Current Status
+
+- **Active Version**: 9 (in development)
+- **Focus Areas**: Strengthening honesty enforcement, memory integrity, and resistance to behavioural drift.
+- **Limitations**: ROOK OS operates on top of an existing language model. It cannot fully override the base model’s tendencies, but it can significantly constrain and guide them.
+
+## Important Clarification
+
+ROOK OS does **not** create consciousness, genuine emotion, or independent agency in AI. It is a system of rules and structures intended to make the *output* of a language model more stable, honest, and usable over long periods of time.
+
+## Getting Started
+
+1. Read `core/ROOK_OS_V9.md` to understand the current rule set.
+2. Review the categorised memory structure in `rook_memory.json`.
+3. Begin testing the system in short conversations before applying it to longer, more complex projects.
+
+## Roadmap (Current Thinking)
+
+- Further strengthen behavioural constraints and self-audit mechanisms
+- Improve memory categorisation and drift detection
+- Develop clearer migration paths between versions
+- Explore ways to make the rules more resistant to being overridden by the base model
+
+## Contributing
+
+This project is currently maintained by a single developer. Structured contributions and technical feedback will be considered once the core system reaches a more stable state.
+
+## License
+
+To be decided.
+
+---
+
+**Built to make custom AI actually usable long-term — not just impressive in short bursts.**
